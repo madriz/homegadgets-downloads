@@ -10,11 +10,17 @@ price live, from your own computer. More about it: <https://www.homegadgets.ca/a
 
 ## Download
 
-**Windows (64-bit):**
+**Windows (64-bit), the released version:**
 <https://github.com/madriz/homegadgets-downloads/releases/latest/download/HomeGadgets-windows-x64-setup.exe>
 
-That address always gives the newest version. There is no Mac or Linux version
-yet.
+That address always gives the newest released version. When no version is
+released it answers "not found"; that is deliberate, not a broken link.
+
+Builds marked **Pre-release** on the
+[Releases page](https://github.com/madriz/homegadgets-downloads/releases) are
+test builds. They are there to be tried before release and may misbehave.
+
+There is no Mac or Linux version yet.
 
 ## Windows will warn you
 
